@@ -6,6 +6,6 @@ A proposta do projeto Heeelp.org é bastante simples. Colaboração mútua para 
 
 ![Business Model](https://scontent.fcgh4-1.fna.fbcdn.net/v/t1.0-9/17190796_10211399891329636_9174113874713097429_n.jpg?oh=23823b25c1387fefc87682860ba8d129&oe=592BB813)
 
-Saiba mais no ![Wiki do Projeto] (https://github.com/souzaribeiro/heeelp.org/wiki)
+Saiba mais no [Wiki do Projeto] (https://github.com/souzaribeiro/heeelp.org/wiki)
 
 
