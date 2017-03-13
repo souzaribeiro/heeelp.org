@@ -4,4 +4,6 @@ A proposta do projeto Heeelp.org é bastante simples. Colaboração mútua para 
 
 Saiba mais no [Wiki do Projeto] (https://github.com/souzaribeiro/heeelp.org/wiki)
 
+Código fonte dos módulos estará dividido em alguns repositorios separados. O módulo Core está em https://github.com/souzaribeiro/Heeelp.Core
+
 ![heeelp](https://scontent.fcgh4-1.fna.fbcdn.net/v/t1.0-9/17156150_10211400464063954_6765943738267839829_n.jpg?oh=ee896f2b4a9109df1b57d65f99c5c7f6&oe=59670B11)
